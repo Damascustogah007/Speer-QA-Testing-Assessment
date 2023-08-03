@@ -23,12 +23,27 @@ To change directory, run the following command.
 cd Speer-QA-Testing-Assessment
 ```
 
-### Install 
+### Initialize npm
+
+To initialize npm, run the following command.
+Click enter button on the keyboard till you exit the initialization process
+
+```
+npm init
+```
+
+### Install dependencies
 
 To install all dependencies, run the following command.
 
 ```
 npm install
+```
+
+### Install axios
+
+```
+npm install axios
 ```
 
 **Note:** Ensure you have node installed on your local machine. if not, you have to download and install the latest node version "https://nodejs.org/en/download" 
